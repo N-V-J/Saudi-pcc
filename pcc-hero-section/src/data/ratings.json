@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Aarav Mehta",
+      "avatar": "https://i.pravatar.cc/100?img=1",
+      "rating": 5,
+      "comment": "Smooth and professional service. Highly recommended!"
+    },
+    {
+      "name": "Fatima Al-Zahrani",
+      "avatar": "https://i.pravatar.cc/100?img=2",
+      "rating": 5,
+      "comment": "Got my PCC in 2 days. Fast and secure process!"
+    },
+    {
+      "name": "John Smith",
+      "avatar": "https://i.pravatar.cc/100?img=3",
+      "rating": 4,
+      "comment": "Good experience overall. Slight delay in support response."
+    },
+    {
+      "name": "Sana Khan",
+      "avatar": "https://i.pravatar.cc/100?img=4",
+      "rating": 5,
+      "comment": "Very user-friendly and well-guided service!"
+    },
+    {
+      "name": "Mohammed Hassan",
+      "avatar": "https://i.pravatar.cc/100?img=5",
+      "rating": 5,
+      "comment": "Saved me a trip. Everything done online!"
+    },
+    {
+      "name": "Emily Thomas",
+      "avatar": "https://i.pravatar.cc/100?img=6",
+      "rating": 4,
+      "comment": "Had a few questions, but the team was very responsive."
+    },
+    {
+      "name": "Ravi Nair",
+      "avatar": "https://i.pravatar.cc/100?img=7",
+      "rating": 5,
+      "comment": "Impressive speed and communication throughout."
+    },
+    {
+      "name": "Zainab Ali",
+      "avatar": "https://i.pravatar.cc/100?img=8",
+      "rating": 5,
+      "comment": "Got everything I needed without any hassle!"
+    },
+    {
+      "name": "Carlos Diaz",
+      "avatar": "https://i.pravatar.cc/100?img=9",
+      "rating": 4,
+      "comment": "Great service, would definitely use again."
+    },
+    {
+      "name": "Lina Noor",
+      "avatar": "https://i.pravatar.cc/100?img=10",
+      "rating": 5,
+      "comment": "Really happy with the process. Completely stress-free."
+    }
+  ]
